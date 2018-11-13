@@ -30,5 +30,14 @@
 5. Bluetooth module για Arduino
 6. DC motor driver module
 
-Κόστος κατασκευής
+Κόστος κατασκευής (εκτίμηση)
 
+1. Arduino Uno ReV3 20€
+2. Shield for Arduino 7€
+3. Jumper Wires 3€
+4. Smart Robot Chassis ( 2 Wheels) 15€
+5. L293D Motor Driver Shield 7€
+6. BluetoothModule 8 €
+7. Διάφορα εξαρτήματα ηλεκτρονικών (αντιστάσεις, led, διακόπτες κτλ) 15 €
+9. Κουτί με θέσεις για φύλαξη εξαρτημάτων 7 €
+10. Διάφορα μικρά εργαλεία (κόφτης, μυτοτσίμπιδο, κατσαβίδι μικρό κ.α) 20 €
